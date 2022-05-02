@@ -19,8 +19,8 @@ public class CurrentAccountPassiveAccount {
 	// si es tipo cuenta persona o empresarial
 	private String namebyaccount;
 
-	// cantidad de comision por cuenta que tiene la cuenta de ahorro
-	private Double savingprates;
+	// cantidad de comision por cuenta que tiene la cuenta corriente
+	private Double savingrates;
 
 	private boolean enabledtouse;
 
